@@ -3,4 +3,3 @@ node_modules
 faker.ts
 test.sql
 testSQL.json
-.env
